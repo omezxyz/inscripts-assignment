@@ -1,4 +1,4 @@
-```md
+ 
 # Inscripts React Intern Assignment
 
 This project is a pixel-perfect frontend replica of the provided spreadsheet-style web application for Inscripts React Intern Assignment.
@@ -58,6 +58,3 @@ Replicates exactly:
 ## Author
 
 Built with ❤️ by Omesh Rabha
-```
-
----
