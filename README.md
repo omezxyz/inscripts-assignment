@@ -13,10 +13,7 @@ This project is a pixel-perfect frontend replica of the provided spreadsheet-sty
 
 ---
 
-## Project Structure
-
-```
-
+ 
 
 ## Features
 
